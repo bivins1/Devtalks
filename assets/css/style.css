@@ -1,0 +1,33 @@
+.navbar-brand img{
+    width: 50px;
+}
+
+.navbar-brand{
+    font-family: playfair display;
+}
+
+.container-fluid ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.mainslider img{
+    object-fit: cover;
+    height: 500px;
+    border-radius: 15px;
+    filter: brightness(80%); 
+    aspect-ratio: 16/9.8;
+}
+
+.col-md-4 img{
+    border-radius: 17px;
+}
+
+.social{
+    font-size: 30px;
+    transition: 200ms;
+}
+
+.social:hover{
+    transform: scale(1.3);
+}
